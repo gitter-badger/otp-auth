@@ -1,0 +1,26 @@
+{
+  "name": "OTP-Auth",
+  "version": "0.0.1",
+  "description": "Simple OTP Authentication MiddleWare for express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "otp",
+    "twilio",
+    "plivo"
+  ],
+  "author": "Abhishek Hingnikar, Sneha Patil",
+  "license": "MIT",
+  "dependencies": {
+    "aws": "0.0.3-2",
+    "bluebird": "^2.3.5",
+    "express": "^4.9.7",
+    "express-session": "^1.8.2",
+    "plivo": "^0.1.0",
+    "speakeasy": "^1.0.3",
+    "twilio": "^1.7.0",
+    "uuid": "^2.0.1"
+  }
+}

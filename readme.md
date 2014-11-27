@@ -1,5 +1,6 @@
 OTP-Auth
 ----------
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/darkyen/otp-auth?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This module provides a simple middleware to implement two-factor authentication using a one time password. Using Plivo or Twilio's awesome API's as the carrier. You need to have either twilio or plivo api credentials to use this (sign-up is Free!! Hoorah).
 
 Simple Example
